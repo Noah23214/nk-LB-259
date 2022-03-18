@@ -9,7 +9,6 @@ Zusätlich wird noch das Datum angezeigt.
 
 Datensatzt Datenschutzt:
 
-Der Datenschutzt wird in diesem Datensatzt tangiert. Er besitzt eine CC0 Public Lizenz.
-Ebenfalls sind das alles Daten die aus dem Internet sind und nicht aus Privaten Quellen. Das merk man, weil bei gewissen Länder die geschwindikeit felht.
+Der Datenschutzt wird in diesem Datensatzt tangiert. Er besitzt eine CC0 Public Lizenz. Das ganze sind auch keine Personenbezogenen Daten oder besonders schützenswerte Daten. Ebenfalls sind das alles Daten die aus dem Internet sind und nicht aus Privaten Quellen. Das merk man, weil bei gewissen Länder die geschwindikeit felht.
 Genau bei diesen Ländern findet es man durch einfaches googeln ebben auch nicht heraus beim rest schon. Diese Massnahmen wurden vom ersteller getroffen
 um den Datenschutzt zu gewehrleisten.
